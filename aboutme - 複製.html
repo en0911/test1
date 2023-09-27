@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <font color = "black" face="標楷體">
 <head>
 	<style type="text/css">
